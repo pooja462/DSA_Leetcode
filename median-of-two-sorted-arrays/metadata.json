@@ -1,0 +1,12 @@
+{
+  "platform": "LeetCode",
+  "title": "Median of Two Sorted Arrays",
+  "slug": "median-of-two-sorted-arrays",
+  "number": "4",
+  "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+  "difficulty": null,
+  "language": "java",
+  "verdict": "Accepted",
+  "capturedAt": "2026-08-09T15:48:40.035Z",
+  "syncedBy": "LeetHook"
+}
